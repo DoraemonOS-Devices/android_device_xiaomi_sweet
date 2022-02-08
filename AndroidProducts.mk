@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_sweet.mk
+    $(LOCAL_DIR)/dora_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_sweet-eng \
-    arrow_sweet-userdebug \
-    arrow_sweet-user
+    dora_sweet-eng \
+    dora_sweet-userdebug \
+    dora_sweet-user
